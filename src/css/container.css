@@ -1,0 +1,10 @@
+#form {
+    background-color: rgb(255, 255, 255);
+    border-style: groove;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+
