@@ -1,4 +1,4 @@
-#Requisitos mínimos:
+# Requisitos mínimos:
 
 - Input - Name
 - Input - Email
